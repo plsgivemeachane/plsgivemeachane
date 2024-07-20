@@ -11,7 +11,7 @@
 - Has lost 2 Github accounts (yes! Im forget password) so dont laugh at my name ;--;⚠️
 - Also learning algorythm and data structure (PAIN 💀💀💀💀💀💀💀💀💀💀💀💀💀)
 
-# Some projects that I really pround of 👀👀👀
+# Some shits that I really pround of 👀👀👀
 
 - 📗 [***plsgivemeachane/UFS***](https://github.com/plsgivemeachane/UFS)
   A "Ultimate File System" (haha). Using IPFS Technique (otherway saying exploits?) to store file without any limit (Status: BUGGY ⚠️⚠️⚠️).
@@ -20,7 +20,7 @@
 - 📙 [***plsgivemeachane/HomefrontClient](https://github.com/plsgivemeachane/HomefrontClient)
   A Moded PVP Minecraft client that optimized for low-end PC with vary useful modules. 🔥🔥🔥
 
-# Some on-the-way project in the future
+# Some on-the-way shits in the future
 
 - AI Vtuber: (Yes you heard it right!) An AI Vtuber that using 2D models with Gemini for text-generate and some custom Text to speech AI models. 🤓🤓🤓
 - ROP: Code A Operatiing system from scratch (Using rust) 💖💖💖
