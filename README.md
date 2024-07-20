@@ -1,4 +1,7 @@
 # About me 🤯
+<div>
+  <img src="https://github.com/plsgivemeachane/plsgivemeachane/blob/main/stupid_images/Wifu2.jpg" height="250px" align="right"/>
+</div>
 
 - Name: "Lee Min Waan" 
 - Full stack developer: Nah near 2 years I guess... 💀💀💀
