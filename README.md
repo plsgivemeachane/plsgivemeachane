@@ -15,9 +15,9 @@
 
 - 📗 [***plsgivemeachane/UFS***](https://github.com/plsgivemeachane/UFS)
   A "Ultimate File System" (haha). Using IPFS Technique (otherway saying exploits?) to store file without any limit (Status: BUGGY ⚠️⚠️⚠️).
-- 📘 [***plsgivemeachane/WaterX](https://github.com/plsgivemeachane/WaterX)
+- 📘 [***plsgivemeachane/WaterX***](https://github.com/plsgivemeachane/WaterX)
   A "From scratch" Web framework develop by me and I sure that no one use it except myself (lol). 🤯🤯🤯
-- 📙 [***plsgivemeachane/HomefrontClient](https://github.com/plsgivemeachane/HomefrontClient)
+- 📙 [***plsgivemeachane/HomefrontClient***](https://github.com/plsgivemeachane/HomefrontClient)
   A Moded PVP Minecraft client that optimized for low-end PC with vary useful modules. 🔥🔥🔥
 
 # Some on-the-way shits in the future
