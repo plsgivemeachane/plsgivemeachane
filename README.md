@@ -24,8 +24,6 @@
 
 - AI Vtuber: (Yes you heard it right!) An AI Vtuber that using 2D models with Gemini for text-generate and some custom Text to speech AI models. 🤓🤓🤓
 - ROP: Code A Operatiing system from scratch (Using rust) 💖💖💖
-- Micro-Agent: A AI Micro-agent capability of writing code with bug checking and automated testing.✈️✈️✈️
 - 1.20.x Fabric Hacked Client: Yeah just a minecraft hacked client (FREE) 🧑‍💻🧑‍💻🧑‍💻
-- A Custom programging language compiler (half way done) (Also complie to Assembly)💀💀💀
-- If you interested in light novel (and also a vietnamese guy): [READ MY TRANSLATED ROMCOM HERE](https://docln.net/truyen/18126-co-gai-ket-noi-voi-soi-to-hong-thuc-chat-la-thien-dich-cua-doi-toi)
 - An exploit tools for fun ya. 🧑‍💻🧑‍💻🧑‍💻🤫🤫🤫💀💀💀
+- Building a community for ya
