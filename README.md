@@ -4,15 +4,17 @@
 </div>
 
 - Name: "Lee Min Waan" 
-- Full stack developer: Nah near 2 years I guess... 💀💀💀
+- Full stack developer: Nah near 3 years I guess... 💀💀💀
 - Language: Python, C++, C# (A bit), Ruby (A Bit), Rust (learning), Java, HTML, CSS, Typescript, Javascript, Assembly (Only know NASM).📢📢📢
 - Did you know Hyprland? The best linux desktop environment!🤫🤫🤫
-- Speak in Vietnamese (Native) and English (Good?). Also Im learning japanese.🐧🐧🐧
+- Speak in Vietnamese (Native) and English (Good enough). Also Im learning japanese (400 day streak).🐧🐧🐧
 - Has lost 2 Github accounts (yes! Im forget password) so dont laugh at my name ;--;⚠️
 - Also learning algorythm and data structure (PAIN 💀💀💀💀💀💀💀💀💀💀💀💀💀)
 
 # Some shits that I really pround of 👀👀👀
 
+- 📕 [****devditoi/vstd_blockchain***](https://github.com/devditoi/vstd_blockchain)
+- VSTD Blockchain is a custom-built experimental blockchain system designed from scratch with a modular, multi-layered architecture. It features a basic Proof of Authority (PoA) consensus, built-in smart contract handling, and support for decentralized applications (dApps) via a web interface.
 - 📗 [***plsgivemeachane/UFS***](https://github.com/plsgivemeachane/UFS)
   A "Ultimate File System" (haha). Using IPFS Technique (otherway saying exploits?) to store file without any limit (Status: BUGGY ⚠️⚠️⚠️).
 - 📘 [***plsgivemeachane/WaterX***](https://github.com/plsgivemeachane/WaterX)
