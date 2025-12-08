@@ -9,7 +9,8 @@
 - Did you know Hyprland? The best linux desktop environment!🤫🤫🤫
 - Speak in Vietnamese (Native) and English (Good enough). Also Im learning japanese (400 day streak).🐧🐧🐧
 - Has lost 2 Github accounts (yes! Im forget password) so dont laugh at my name ;--;⚠️
-- Also learning algorythm and data structure (PAIN 💀💀💀💀💀💀💀💀💀💀💀💀💀)
+- ~~Also learning algorythm and data structure (PAIN 💀💀💀💀💀💀💀💀💀💀💀💀💀)~~
+- Nah I doin my LLM LoRA Traning stuff, it too! funny!!! 
 
 # Some shits that I really pround of 👀👀👀
 
