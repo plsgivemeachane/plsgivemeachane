@@ -30,3 +30,5 @@
 - 1.20.x Fabric Hacked Client: Yeah just a minecraft hacked client (FREE) 🧑‍💻🧑‍💻🧑‍💻
 - An exploit tools for fun ya. 🧑‍💻🧑‍💻🧑‍💻🤫🤫🤫💀💀💀
 - Building a community for ya
+
+PS: This profile was fully written by hand
