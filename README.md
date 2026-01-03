@@ -3,7 +3,7 @@
   <img src="https://github.com/plsgivemeachane/plsgivemeachane/blob/main/stupid_images/Wifu2.png" height="250px" align="right"/>
 </div>
 
-- Name: "Lee Min Waan" 
+- Name: "Yuzuka Koikawa" 
 - Full stack developer: Nah near 3 years I guess... 💀💀💀
 - Language: Python, C++, C# (A bit), Ruby (A Bit), Rust (learning), Java, HTML, CSS, Typescript, Javascript, Assembly (Only know NASM).📢📢📢
 - Did you know Hyprland? The best linux desktop environment!🤫🤫🤫
