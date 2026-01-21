@@ -7,8 +7,7 @@
 - Full stack developer: Nah near 3 years I guess... 💀💀💀
 - Language: Python, C++, C# (A bit), Ruby (A Bit), Rust (learning), Java, HTML, CSS, Typescript, Javascript, Assembly (Only know NASM).📢📢📢
 - Did you know Hyprland? The best linux desktop environment!🤫🤫🤫
-- Speak in Vietnamese (Native) and English (Good enough). Also Im learning japanese (400 day streak).🐧🐧🐧
-- Has lost 2 Github accounts (yes! Im forget password) so dont laugh at my name ;--;⚠️
+- Speak in Vietnamese (Native) and English (Good enough). Also Im learning japanese (600 day streak).🐧🐧🐧
 - ~~Also learning algorythm and data structure (PAIN 💀💀💀💀💀💀💀💀💀💀💀💀💀)~~
 - Nah I doin my LLM LoRA Traning stuff, it too! funny!!! 
 
@@ -25,10 +24,8 @@
 
 # Some on-the-way shits in the future
 
-- AI Vtuber: (Yes you heard it right!) An AI Vtuber that using 2D models with Gemini for text-generate and some custom Text to speech AI models. 🤓🤓🤓
-- ROP: Code A Operatiing system from scratch (Using rust) 💖💖💖
-- 1.20.x Fabric Hacked Client: Yeah just a minecraft hacked client (FREE) 🧑‍💻🧑‍💻🧑‍💻
-- An exploit tools for fun ya. 🧑‍💻🧑‍💻🧑‍💻🤫🤫🤫💀💀💀
+- AI agent swarm (An AI Coding team for myself)
+- And more stuff about AI slop that mention here could cause brain damange :D
 - Building a community for ya
 
 PS: This profile was fully written by hand
